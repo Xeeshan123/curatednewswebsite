@@ -1,0 +1,1044 @@
+[09-Jan-2022 19:58:38 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/rss.php on line 84
+[09-Jan-2022 20:08:16 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Jan-2022 20:08:16 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Jan-2022 20:08:16 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Jan-2022 20:08:16 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Jan-2022 20:08:16 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Jan-2022 20:08:16 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Jan-2022 20:14:20 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Jan-2022 20:14:20 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Jan-2022 20:14:20 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Jan-2022 20:14:20 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Jan-2022 20:14:20 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Jan-2022 20:14:20 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Jan-2022 20:15:31 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Jan-2022 20:15:31 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Jan-2022 20:15:31 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Jan-2022 20:15:31 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Jan-2022 20:15:31 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Jan-2022 20:15:31 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Jan-2022 20:21:50 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Jan-2022 20:21:50 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Jan-2022 20:21:50 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Jan-2022 20:21:50 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Jan-2022 20:21:50 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Jan-2022 20:21:50 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 13:39:34 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 13:39:34 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 13:39:34 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 13:39:34 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 13:39:34 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 13:39:34 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 13:39:52 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 13:39:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 13:39:52 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 13:39:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 13:39:52 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 13:39:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 13:40:10 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 13:40:10 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 13:40:10 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 13:40:10 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 13:40:10 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 13:40:10 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 14:13:14 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 14:13:14 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 14:13:14 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 14:13:14 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 14:13:36 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 14:13:36 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 14:13:36 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 14:13:36 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 14:14:03 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 14:14:03 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 14:14:03 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 14:14:03 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 14:14:27 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 14:14:27 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 14:14:27 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 14:14:27 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 14:14:45 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 14:14:45 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 14:14:45 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 14:14:45 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 14:15:25 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 14:15:25 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 14:15:25 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 14:15:25 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Jan-2022 20:20:08 UTC] PHP Notice:  Undefined offset: 0 in /home1/exclusi2/test.exclusivedevs.com/router.php on line 38
+[10-Jan-2022 20:21:28 UTC] PHP Notice:  Undefined offset: 0 in /home1/exclusi2/test.exclusivedevs.com/router.php on line 38
+[10-Jan-2022 20:23:51 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/form.php on line 14
+[16-Jan-2022 12:26:54 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 12:26:54 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 12:26:54 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 12:26:54 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 12:27:37 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 12:27:37 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 12:27:37 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 12:27:37 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 12:28:00 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 12:28:00 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 12:28:00 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 12:28:00 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 12:32:44 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 12:32:44 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 12:32:44 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 12:32:44 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 12:33:26 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 12:33:26 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 12:33:26 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 12:33:26 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 14:27:58 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 14:27:58 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 14:27:58 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 14:27:58 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 15:33:21 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 15:33:21 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 15:33:21 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 15:33:21 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 15:46:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function cnews_get_word_count() in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/single-news.php:60
+Stack trace:
+#0 /home1/exclusi2/test.exclusivedevs.com/router.php(57): include_once()
+#1 /home1/exclusi2/test.exclusivedevs.com/router.php(6): route('/single-news/$n...', 'sub-project/vie...')
+#2 /home1/exclusi2/test.exclusivedevs.com/routes.php(101): get('/single-news/$n...', 'sub-project/vie...')
+#3 {main}
+  thrown in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/single-news.php on line 60
+[16-Jan-2022 15:48:31 UTC] PHP Notice:  Undefined index: content in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/single-news.php on line 60
+[16-Jan-2022 16:02:22 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/single-news.php on line 60
+[16-Jan-2022 16:02:22 UTC] PHP Fatal error:  Uncaught MeekroDBException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home1/exclusi2/test.exclusivedevs.com/sub-project/lib/MeekroDB.php:808
+Stack trace:
+#0 /home1/exclusi2/test.exclusivedevs.com/sub-project/lib/MeekroDB.php(771): MeekroDB->queryHelper(Array, Array)
+#1 /home1/exclusi2/test.exclusivedevs.com/sub-project/lib/MeekroDB.php(863): MeekroDB->query('SELECT count(*)...', NULL)
+#2 /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-news.php(417): MeekroDB->queryFirstRow('SELECT count(*)...', NULL)
+#3 /home1/exclusi2/test.exclusivedevs.com/sub-project/view/single-news.php(60): CNEWS\News::get_count(NULL)
+#4 /home1/exclusi2/test.exclusivedevs.com/router.php(57): include_once('/home1/exclusi2...')
+#5 /home1/exclusi2/test.exclusivedevs.com/router.php(6): route('/single-news/$n...', 'sub-project/vie...')
+#6 /home1/exclusi2/test.exclusivedevs.com/routes.php(101): get('/single-news/$n...', in /home1/exclusi2/test.exclusivedevs.com/sub-project/lib/MeekroDB.php on line 808
+[16-Jan-2022 16:03:40 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/single-news.php on line 60
+[16-Jan-2022 16:03:40 UTC] PHP Fatal error:  Uncaught MeekroDBException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home1/exclusi2/test.exclusivedevs.com/sub-project/lib/MeekroDB.php:808
+Stack trace:
+#0 /home1/exclusi2/test.exclusivedevs.com/sub-project/lib/MeekroDB.php(771): MeekroDB->queryHelper(Array, Array)
+#1 /home1/exclusi2/test.exclusivedevs.com/sub-project/lib/MeekroDB.php(863): MeekroDB->query('SELECT count(*)...', NULL)
+#2 /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-news.php(417): MeekroDB->queryFirstRow('SELECT count(*)...', NULL)
+#3 /home1/exclusi2/test.exclusivedevs.com/sub-project/view/single-news.php(60): CNEWS\News::get_count(NULL)
+#4 /home1/exclusi2/test.exclusivedevs.com/router.php(57): include_once('/home1/exclusi2...')
+#5 /home1/exclusi2/test.exclusivedevs.com/router.php(6): route('/single-news/$n...', 'sub-project/vie...')
+#6 /home1/exclusi2/test.exclusivedevs.com/routes.php(101): get('/single-news/$n...', in /home1/exclusi2/test.exclusivedevs.com/sub-project/lib/MeekroDB.php on line 808
+[16-Jan-2022 16:08:38 UTC] PHP Fatal error:  Uncaught Error: Class 'CNEWS\News' not found in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/single-news.php:15
+Stack trace:
+#0 /home1/exclusi2/test.exclusivedevs.com/router.php(57): include_once()
+#1 /home1/exclusi2/test.exclusivedevs.com/router.php(6): route('/single-news/$n...', 'sub-project/vie...')
+#2 /home1/exclusi2/test.exclusivedevs.com/routes.php(101): get('/single-news/$n...', 'sub-project/vie...')
+#3 {main}
+  thrown in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/single-news.php on line 15
+[16-Jan-2022 16:12:31 UTC] PHP Notice:  Undefined offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-news.php on line 418
+[16-Jan-2022 16:12:58 UTC] PHP Notice:  Undefined offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-news.php on line 418
+[16-Jan-2022 16:13:57 UTC] PHP Notice:  Undefined index: COUNT(*) in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-news.php on line 418
+[16-Jan-2022 16:14:18 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 16:14:18 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 16:14:18 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 16:14:18 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 16:17:15 UTC] PHP Notice:  Undefined index: ID in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-news.php on line 418
+[16-Jan-2022 16:24:51 UTC] PHP Warning:  substr() expects parameter 1 to be string, array given in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-news.php on line 419
+[16-Jan-2022 16:35:35 UTC] PHP Fatal error:  Uncaught Error: Class 'CNEWS\mysqli' not found in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-news.php:425
+Stack trace:
+#0 /home1/exclusi2/test.exclusivedevs.com/sub-project/view/single-news.php(60): CNEWS\News::get_count('25')
+#1 /home1/exclusi2/test.exclusivedevs.com/router.php(57): include_once('/home1/exclusi2...')
+#2 /home1/exclusi2/test.exclusivedevs.com/router.php(6): route('/single-news/$n...', 'sub-project/vie...')
+#3 /home1/exclusi2/test.exclusivedevs.com/routes.php(101): get('/single-news/$n...', 'sub-project/vie...')
+#4 {main}
+  thrown in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-news.php on line 425
+[16-Jan-2022 16:38:38 UTC] PHP Notice:  Undefined offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-news.php on line 419
+[16-Jan-2022 16:39:06 UTC] PHP Warning:  substr() expects at least 2 parameters, 1 given in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-news.php on line 419
+[16-Jan-2022 16:41:04 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-news.php on line 417
+[16-Jan-2022 16:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function CNEWS\subsr() in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-news.php:419
+Stack trace:
+#0 /home1/exclusi2/test.exclusivedevs.com/sub-project/view/single-news.php(60): CNEWS\News::get_count('25')
+#1 /home1/exclusi2/test.exclusivedevs.com/router.php(57): include_once('/home1/exclusi2...')
+#2 /home1/exclusi2/test.exclusivedevs.com/router.php(6): route('/single-news/$n...', 'sub-project/vie...')
+#3 /home1/exclusi2/test.exclusivedevs.com/routes.php(101): get('/single-news/$n...', 'sub-project/vie...')
+#4 {main}
+  thrown in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-news.php on line 419
+[16-Jan-2022 16:49:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method MeekroDB::querRaw() in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-news.php:417
+Stack trace:
+#0 /home1/exclusi2/test.exclusivedevs.com/sub-project/view/single-news.php(60): CNEWS\News::get_count('25')
+#1 /home1/exclusi2/test.exclusivedevs.com/router.php(57): include_once('/home1/exclusi2...')
+#2 /home1/exclusi2/test.exclusivedevs.com/router.php(6): route('/single-news/$n...', 'sub-project/vie...')
+#3 /home1/exclusi2/test.exclusivedevs.com/routes.php(101): get('/single-news/$n...', 'sub-project/vie...')
+#4 {main}
+  thrown in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-news.php on line 417
+[16-Jan-2022 16:49:51 UTC] PHP Fatal error:  Uncaught MeekroDBException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as ID FROM news WHERE author=25' at line 1 in /home1/exclusi2/test.exclusivedevs.com/sub-project/lib/MeekroDB.php:808
+Stack trace:
+#0 /home1/exclusi2/test.exclusivedevs.com/sub-project/lib/MeekroDB.php(771): MeekroDB->queryHelper(Array, Array)
+#1 /home1/exclusi2/test.exclusivedevs.com/sub-project/lib/MeekroDB.php(863): MeekroDB->query('SELECT * as ID ...')
+#2 /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-news.php(417): MeekroDB->queryFirstRow('SELECT * as ID ...')
+#3 /home1/exclusi2/test.exclusivedevs.com/sub-project/view/single-news.php(60): CNEWS\News::get_count('25')
+#4 /home1/exclusi2/test.exclusivedevs.com/router.php(57): include_once('/home1/exclusi2...')
+#5 /home1/exclusi2/test.exclusivedevs.com/router.php(6): route('/single-news/$n...', 'sub-project/vie...')
+#6 /home1/exclusi2/test.exclusivedevs.com/routes.php(101): get('/ in /home1/exclusi2/test.exclusivedevs.com/sub-project/lib/MeekroDB.php on line 808
+[16-Jan-2022 16:51:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-news.php:418
+Stack trace:
+#0 /home1/exclusi2/test.exclusivedevs.com/sub-project/view/single-news.php(60): CNEWS\News::get_count('25')
+#1 /home1/exclusi2/test.exclusivedevs.com/router.php(57): include_once('/home1/exclusi2...')
+#2 /home1/exclusi2/test.exclusivedevs.com/router.php(6): route('/single-news/$n...', 'sub-project/vie...')
+#3 /home1/exclusi2/test.exclusivedevs.com/routes.php(101): get('/single-news/$n...', 'sub-project/vie...')
+#4 {main}
+  thrown in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-news.php on line 418
+[16-Jan-2022 16:51:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-news.php:418
+Stack trace:
+#0 /home1/exclusi2/test.exclusivedevs.com/sub-project/view/single-news.php(60): CNEWS\News::get_count('25')
+#1 /home1/exclusi2/test.exclusivedevs.com/router.php(57): include_once('/home1/exclusi2...')
+#2 /home1/exclusi2/test.exclusivedevs.com/router.php(6): route('/single-news/$n...', 'sub-project/vie...')
+#3 /home1/exclusi2/test.exclusivedevs.com/routes.php(101): get('/single-news/$n...', 'sub-project/vie...')
+#4 {main}
+  thrown in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-news.php on line 418
+[16-Jan-2022 16:55:27 UTC] PHP Fatal error:  Uncaught MeekroDBException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%25' at line 1 in /home1/exclusi2/test.exclusivedevs.com/sub-project/lib/MeekroDB.php:808
+Stack trace:
+#0 /home1/exclusi2/test.exclusivedevs.com/sub-project/lib/MeekroDB.php(772): MeekroDB->queryHelper(Array, Array)
+#1 /home1/exclusi2/test.exclusivedevs.com/sub-project/lib/MeekroDB.php(871): MeekroDB->queryAllLists('SELECT COUNT(ID...')
+#2 /home1/exclusi2/test.exclusivedevs.com/sub-project/lib/MeekroDB.php(892): MeekroDB->queryFirstList('SELECT COUNT(ID...')
+#3 /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-news.php(417): MeekroDB->queryFirstField('SELECT COUNT(ID...')
+#4 /home1/exclusi2/test.exclusivedevs.com/sub-project/view/single-news.php(60): CNEWS\News::get_count('25')
+#5 /home1/exclusi2/test.exclusivedevs.com/router.php(57): include_once('/home1/exclusi2...')
+#6 /home1/exclusi2/test.exclusivedevs.com/router.php(6): route('/s in /home1/exclusi2/test.exclusivedevs.com/sub-project/lib/MeekroDB.php on line 808
+[16-Jan-2022 17:52:11 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 17:52:11 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 17:52:11 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 17:52:11 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 17:54:48 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 17:54:48 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 17:54:48 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 17:54:48 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 17:55:06 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 17:55:06 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 17:55:06 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 17:55:06 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 17:55:59 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 17:55:59 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 17:55:59 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 17:55:59 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[16-Jan-2022 18:50:34 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/stats.php on line 16
+[16-Jan-2022 18:50:34 UTC] PHP Notice:  Undefined index: leaning in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/stats.php on line 17
+[16-Jan-2022 18:50:34 UTC] PHP Notice:  Undefined index: slug in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/stats.php on line 18
+[16-Jan-2022 19:05:58 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/stats.php on line 16
+[16-Jan-2022 19:05:58 UTC] PHP Notice:  Undefined index: leaning in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/stats.php on line 17
+[16-Jan-2022 19:05:58 UTC] PHP Notice:  Undefined index: slug in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/stats.php on line 18
+[16-Jan-2022 19:08:48 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/stats.php on line 16
+[16-Jan-2022 19:08:48 UTC] PHP Notice:  Undefined index: leaning in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/stats.php on line 17
+[16-Jan-2022 19:08:48 UTC] PHP Notice:  Undefined index: slug in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/stats.php on line 18
+[16-Jan-2022 19:11:11 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/stats.php on line 16
+[16-Jan-2022 19:11:11 UTC] PHP Notice:  Undefined index: leaning in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/stats.php on line 17
+[16-Jan-2022 19:11:11 UTC] PHP Notice:  Undefined index: slug in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/stats.php on line 18
+[16-Jan-2022 19:12:06 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/stats.php on line 16
+[16-Jan-2022 19:12:06 UTC] PHP Notice:  Undefined index: leaning in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/stats.php on line 17
+[16-Jan-2022 19:12:06 UTC] PHP Notice:  Undefined index: slug in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/stats.php on line 18
+[18-Jan-2022 09:16:33 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 09:16:33 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 09:16:33 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 09:16:33 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 09:22:06 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 09:22:06 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 09:22:06 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 09:22:06 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 09:33:57 UTC] PHP Fatal error:  Uncaught MeekroDBException: Unknown column 'news.created_date' in 'order clause' in /home1/exclusi2/test.exclusivedevs.com/sub-project/lib/MeekroDB.php:808
+Stack trace:
+#0 /home1/exclusi2/test.exclusivedevs.com/sub-project/lib/MeekroDB.php(771): MeekroDB->queryHelper(Array, Array)
+#1 /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php(65): MeekroDB->query('Select * from b...')
+#2 /home1/exclusi2/test.exclusivedevs.com/router.php(57): include_once('/home1/exclusi2...')
+#3 /home1/exclusi2/test.exclusivedevs.com/router.php(6): route('/broadcast', 'sub-project/vie...')
+#4 /home1/exclusi2/test.exclusivedevs.com/routes.php(103): get('/broadcast', 'sub-project/vie...')
+#5 {main}
+  thrown in /home1/exclusi2/test.exclusivedevs.com/sub-project/lib/MeekroDB.php on line 808
+[18-Jan-2022 09:51:41 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 09:51:41 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 09:51:41 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 09:51:41 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 09:51:41 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 09:51:41 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 09:51:41 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 09:51:41 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 09:51:41 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 09:51:41 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 09:51:41 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 09:51:41 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 09:51:41 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 09:51:41 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 09:51:41 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 09:51:41 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 09:51:41 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 09:51:41 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 09:53:30 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 191
+[18-Jan-2022 09:53:30 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 191
+[18-Jan-2022 09:53:30 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 191
+[18-Jan-2022 09:53:30 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 191
+[18-Jan-2022 09:53:30 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 191
+[18-Jan-2022 09:53:30 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 191
+[18-Jan-2022 09:53:30 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 191
+[18-Jan-2022 09:53:30 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 191
+[18-Jan-2022 09:53:30 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 191
+[18-Jan-2022 09:53:30 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 191
+[18-Jan-2022 09:53:30 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 191
+[18-Jan-2022 09:53:30 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 191
+[18-Jan-2022 09:53:30 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 191
+[18-Jan-2022 09:53:30 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 191
+[18-Jan-2022 09:53:30 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 191
+[18-Jan-2022 09:53:30 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 191
+[18-Jan-2022 09:53:30 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 191
+[18-Jan-2022 09:53:30 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 191
+[18-Jan-2022 09:55:05 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:55:05 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:55:05 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:55:05 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:55:05 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:55:05 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:55:05 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:55:05 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:55:05 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:55:05 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:55:05 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:55:05 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:55:05 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:55:05 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:55:05 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:55:05 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:55:05 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:55:05 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:56:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:56:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:56:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:56:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:56:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:56:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:56:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:56:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:56:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:56:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:56:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:56:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:56:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:56:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:56:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:56:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:56:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:56:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:59:23 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:59:23 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:59:23 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:59:23 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:59:23 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:59:23 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:59:23 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:59:23 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:59:23 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:59:23 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:59:23 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:59:23 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:59:23 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:59:23 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:59:23 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:59:23 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:59:23 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 09:59:23 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 10:00:38 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 10:00:38 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 10:00:38 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 10:00:38 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 10:00:38 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 10:00:38 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 10:00:38 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 10:00:38 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 10:00:38 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 10:00:38 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 10:00:38 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 10:00:38 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 10:00:38 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 10:00:38 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 10:00:38 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 10:00:38 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 10:00:38 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 10:00:38 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 192
+[18-Jan-2022 10:01:15 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:01:15 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:01:15 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:01:15 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:01:15 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:01:15 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:01:15 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:01:15 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:01:15 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:01:15 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:01:15 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:01:15 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:01:15 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:01:15 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:01:15 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:01:15 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:01:15 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:01:15 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:02:54 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:02:54 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:02:54 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:02:54 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:02:54 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:02:54 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:02:54 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:02:54 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:02:54 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:02:54 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:02:54 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:02:54 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:02:54 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:02:54 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:02:54 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:02:54 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:02:54 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:02:54 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:05:37 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:05:37 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:05:37 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:05:37 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:05:37 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:05:37 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:05:37 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:05:37 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:05:37 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:05:37 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:05:37 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:05:37 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:05:37 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:05:37 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:05:37 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:05:37 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:05:37 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:05:37 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:07:44 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:07:44 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:07:44 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:07:44 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:07:44 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:07:44 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:07:44 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:07:44 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:07:44 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:07:44 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:07:44 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:07:44 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:07:44 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:07:44 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:07:44 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:07:44 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:07:44 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:07:44 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:08:27 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:08:27 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:08:27 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:08:27 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:08:27 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:08:27 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:08:27 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:08:27 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:08:27 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:08:27 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:08:27 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:08:27 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:08:27 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:08:27 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:08:27 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:08:27 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:08:27 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:08:27 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:09:21 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:09:21 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:09:21 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:09:21 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:09:21 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:09:21 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:09:21 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:09:21 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:09:21 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:09:21 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:09:21 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:09:21 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:09:21 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:09:21 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:09:21 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:09:21 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:09:21 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:09:21 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:10:11 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:10:11 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:10:11 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:10:11 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:10:11 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:10:11 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:10:11 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:10:11 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:10:11 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:10:11 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:10:11 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:10:11 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:10:11 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:10:11 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:10:11 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:10:11 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:10:11 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:10:11 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:11:22 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:11:22 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:11:22 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:11:22 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:11:22 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:11:22 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:11:22 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:11:22 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:11:22 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:11:22 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:11:22 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:11:22 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:11:22 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:11:22 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:11:22 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:11:22 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:11:22 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:11:22 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:12:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:12:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:12:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:12:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:12:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:12:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:12:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:12:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:12:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:12:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:12:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:12:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:12:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:12:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:12:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:12:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:12:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 10:12:01 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:15:28 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:15:28 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:15:28 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:15:28 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:15:28 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:15:28 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:15:28 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:15:28 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:15:28 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:15:28 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:15:28 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:15:28 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:15:28 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:15:28 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:15:28 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:15:28 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:15:28 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:15:28 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:24:32 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:24:32 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:24:32 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:24:32 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:24:32 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:24:32 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:24:32 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:24:32 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:24:32 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:24:32 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:24:32 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:24:32 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:24:32 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:24:32 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:24:32 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:24:32 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:24:32 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:24:32 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:33:21 UTC] PHP Notice:  Undefined index: source in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/form1.php on line 19
+[18-Jan-2022 12:33:21 UTC] PHP Notice:  Undefined index: link in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/form1.php on line 20
+[18-Jan-2022 12:39:35 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:39:35 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:39:35 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:39:35 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:39:35 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:39:35 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:39:35 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:39:35 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:39:35 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:39:35 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:39:35 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:39:35 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:39:35 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:39:35 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:39:35 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:39:35 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:39:35 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 12:39:35 UTC] PHP Notice:  Undefined index: id in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/broadcast.php on line 190
+[18-Jan-2022 15:29:20 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 15:29:20 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 15:29:20 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 15:29:20 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 15:37:45 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 15:37:45 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 15:37:45 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 15:37:45 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 16:45:04 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 16:45:04 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 16:45:04 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 16:45:04 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 16:54:16 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 16:54:16 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 16:54:16 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 16:54:16 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 16:55:04 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 16:55:04 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 16:55:04 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 16:55:04 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 16:57:20 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 16:57:20 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 16:57:20 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 16:57:20 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 16:59:41 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 16:59:41 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 16:59:41 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 16:59:41 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:01:03 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:01:03 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:01:03 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:01:03 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:01:48 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:01:48 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:01:48 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:01:48 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:05:17 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:05:17 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:05:17 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:05:17 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:19:16 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:19:16 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:19:16 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:19:16 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:20:53 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:20:53 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:20:53 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:20:53 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:22:28 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:22:28 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:22:28 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:22:28 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:27:48 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:27:48 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:27:48 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:27:48 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:28:55 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:28:55 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:28:55 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:28:55 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:35:19 UTC] PHP Notice:  Undefined index: users in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/admin-ajax.php on line 165
+[18-Jan-2022 17:35:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/admin-ajax.php on line 166
+[18-Jan-2022 17:36:39 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:36:39 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:36:39 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:36:39 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:36:57 UTC] PHP Notice:  Undefined index: users in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/admin-ajax.php on line 165
+[18-Jan-2022 17:36:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/admin-ajax.php on line 166
+[18-Jan-2022 17:39:05 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:39:05 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:39:05 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:39:05 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:39:32 UTC] PHP Notice:  Undefined index: users in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/admin-ajax.php on line 165
+[18-Jan-2022 17:39:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/admin-ajax.php on line 166
+[18-Jan-2022 17:40:12 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:40:12 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:40:12 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:40:12 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:40:40 UTC] PHP Notice:  Undefined index: users in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/admin-ajax.php on line 165
+[18-Jan-2022 17:40:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/admin-ajax.php on line 166
+[18-Jan-2022 17:41:19 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:41:19 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:41:19 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:41:19 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:42:40 UTC] PHP Notice:  Undefined index: users in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/admin-ajax.php on line 165
+[18-Jan-2022 17:42:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/admin-ajax.php on line 166
+[18-Jan-2022 17:45:22 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:45:22 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:45:22 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:45:22 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:46:06 UTC] PHP Notice:  Undefined index: users in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/admin-ajax.php on line 165
+[18-Jan-2022 17:48:14 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:48:14 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:48:14 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:48:14 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:49:10 UTC] PHP Notice:  Undefined index: users in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/admin-ajax.php on line 165
+[18-Jan-2022 17:49:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/admin-ajax.php on line 167
+[18-Jan-2022 17:50:02 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:50:02 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:50:02 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:50:02 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:50:29 UTC] PHP Notice:  Array to string conversion in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/admin-ajax.php on line 165
+[18-Jan-2022 17:51:11 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:51:11 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:51:11 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:51:11 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:52:35 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:52:35 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:52:35 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:52:35 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:53:28 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/admin-ajax.php on line 173
+[18-Jan-2022 17:53:28 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/admin-ajax.php on line 173
+[18-Jan-2022 17:53:28 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/admin-ajax.php on line 173
+[18-Jan-2022 17:53:28 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/admin-ajax.php on line 173
+[18-Jan-2022 17:56:23 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:56:23 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:56:23 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:56:23 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:59:32 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:59:32 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:59:32 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 17:59:32 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 18:00:57 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 18:00:57 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 18:00:57 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[18-Jan-2022 18:00:57 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[20-Jan-2022 14:26:21 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[20-Jan-2022 14:26:21 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[20-Jan-2022 14:26:21 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[20-Jan-2022 14:26:21 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 15:56:20 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 15:56:20 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 15:56:20 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 15:56:20 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 15:57:05 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 15:57:05 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 15:57:25 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 15:57:25 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 15:57:25 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 15:57:25 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 15:59:05 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 15:59:05 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 15:59:05 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 15:59:05 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 16:05:48 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 16:05:48 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 16:05:48 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 16:05:48 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 16:06:57 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 16:06:57 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 16:06:57 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 16:06:57 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 16:07:18 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 16:07:18 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 16:07:18 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 16:07:18 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 16:27:09 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 16:27:09 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 16:31:02 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 16:31:02 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 20:16:28 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 20:16:28 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 20:17:32 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 20:17:32 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 22:21:00 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 22:21:00 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 22:25:20 UTC] PHP Warning:  Division by zero in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-news.php on line 322
+[07-Feb-2022 22:28:25 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 22:28:25 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 22:29:13 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 22:29:13 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 22:29:32 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 22:29:32 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 23:58:20 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Feb-2022 23:58:20 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Feb-2022 22:36:39 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Feb-2022 22:36:39 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Feb-2022 22:37:43 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Feb-2022 22:37:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Feb-2022 22:39:25 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Feb-2022 22:39:25 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Feb-2022 22:39:53 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 05:39:40 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 05:39:40 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 05:42:28 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 05:42:28 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 05:46:29 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 05:46:29 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 05:47:04 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 05:47:04 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 05:51:25 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 05:51:25 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 05:51:52 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 05:51:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 05:52:18 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 05:54:38 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 05:54:38 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 05:58:39 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 05:58:39 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 05:59:11 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 05:59:11 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 06:07:02 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 06:07:02 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 06:07:40 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 06:07:40 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 06:13:45 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 06:13:45 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 06:13:55 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 06:13:55 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 06:21:13 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 06:21:13 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 06:21:48 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 06:21:48 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 06:26:28 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 06:26:28 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 06:55:25 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 06:55:25 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 14:57:03 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 14:57:03 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 14:57:31 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 14:57:31 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 14:57:55 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 14:57:55 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 15:02:52 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[25-Feb-2022 15:02:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 13:02:48 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 13:02:48 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 13:03:14 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 13:03:14 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 13:03:38 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 13:03:38 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 13:07:43 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 13:07:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 16:53:16 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 16:53:16 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 17:00:08 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 17:00:08 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 17:02:09 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 17:02:09 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 19:37:14 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 19:37:14 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 19:37:38 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 19:37:38 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 19:38:03 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 19:38:03 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 19:39:14 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 19:39:14 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 19:40:56 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 19:40:56 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 19:41:20 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 19:41:20 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 19:42:13 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 19:42:13 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 19:42:38 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 19:42:38 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 19:43:25 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 19:43:25 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 19:43:49 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 19:43:49 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 19:45:07 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[28-Feb-2022 19:45:07 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[01-Mar-2022 15:53:41 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[01-Mar-2022 15:53:41 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[01-Mar-2022 16:50:27 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[01-Mar-2022 16:50:27 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[01-Mar-2022 16:53:06 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[01-Mar-2022 16:53:06 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[01-Mar-2022 17:00:35 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[01-Mar-2022 17:00:35 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[01-Mar-2022 17:07:42 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[01-Mar-2022 17:07:42 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[01-Mar-2022 17:40:37 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[01-Mar-2022 17:40:37 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[01-Mar-2022 18:59:40 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[01-Mar-2022 18:59:40 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[01-Mar-2022 19:01:01 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[01-Mar-2022 19:01:01 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[01-Mar-2022 19:01:37 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[01-Mar-2022 19:01:37 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[02-Mar-2022 06:39:14 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[02-Mar-2022 06:39:14 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[02-Mar-2022 07:50:42 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[02-Mar-2022 07:50:42 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[02-Mar-2022 14:11:04 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[02-Mar-2022 14:11:04 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[03-Mar-2022 00:10:07 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[03-Mar-2022 00:10:07 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[03-Mar-2022 05:08:15 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[03-Mar-2022 05:08:15 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[03-Mar-2022 05:40:24 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[03-Mar-2022 05:40:24 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[03-Mar-2022 08:14:02 UTC] PHP Notice:  Undefined variable: get_all_data_run in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/author/add-news.php on line 105
+[03-Mar-2022 08:14:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/author/add-news.php on line 105
+[03-Mar-2022 08:15:30 UTC] PHP Notice:  Undefined variable: get_all_data_run in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/author/add-news.php on line 106
+[03-Mar-2022 08:15:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/author/add-news.php on line 106
+[03-Mar-2022 08:16:20 UTC] PHP Notice:  Undefined variable: get_all_data_run in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/author/add-news.php on line 108
+[03-Mar-2022 08:16:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/author/add-news.php on line 108
+[03-Mar-2022 08:18:19 UTC] PHP Notice:  Undefined variable: get_all_data_run in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/author/add-news.php on line 108
+[03-Mar-2022 08:18:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/author/add-news.php on line 108
+[03-Mar-2022 08:27:02 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/author/add-news.php on line 100
+[03-Mar-2022 08:27:41 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/author/add-news.php on line 100
+[03-Mar-2022 08:28:29 UTC] PHP Notice:  Undefined variable: get_all_data_run in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/author/add-news.php on line 110
+[03-Mar-2022 08:28:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/author/add-news.php on line 110
+[04-Mar-2022 07:40:34 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[04-Mar-2022 07:40:34 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[04-Mar-2022 07:40:59 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[04-Mar-2022 07:40:59 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[06-Mar-2022 18:14:59 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[06-Mar-2022 18:14:59 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[06-Mar-2022 18:15:25 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[06-Mar-2022 18:15:25 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Mar-2022 06:19:58 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Mar-2022 06:19:58 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Mar-2022 12:04:43 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Mar-2022 12:04:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Mar-2022 16:43:44 UTC] PHP Warning:  Division by zero in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-news.php on line 322
+[07-Mar-2022 16:44:12 UTC] PHP Warning:  Division by zero in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-news.php on line 322
+[07-Mar-2022 16:47:59 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Mar-2022 16:47:59 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Mar-2022 17:34:11 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Mar-2022 17:34:11 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Mar-2022 17:43:32 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Mar-2022 17:43:32 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Mar-2022 17:55:06 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Mar-2022 17:55:06 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Mar-2022 18:03:50 UTC] PHP Warning:  Division by zero in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-news.php on line 322
+[07-Mar-2022 19:25:45 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[07-Mar-2022 19:25:45 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[08-Mar-2022 13:35:37 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[08-Mar-2022 13:35:37 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[08-Mar-2022 13:48:42 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[08-Mar-2022 13:48:42 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[08-Mar-2022 15:34:43 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[08-Mar-2022 15:34:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[08-Mar-2022 15:35:08 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[08-Mar-2022 15:35:08 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[08-Mar-2022 15:54:55 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[08-Mar-2022 15:54:55 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[08-Mar-2022 15:55:47 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[08-Mar-2022 15:55:47 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[08-Mar-2022 16:02:00 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[08-Mar-2022 16:02:00 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[08-Mar-2022 16:09:00 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[08-Mar-2022 16:09:00 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[08-Mar-2022 16:13:37 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[08-Mar-2022 16:13:37 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Mar-2022 07:40:33 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Mar-2022 07:40:33 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Mar-2022 07:49:36 UTC] PHP Notice:  Undefined index: users in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/form1.php on line 20
+[09-Mar-2022 08:00:11 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Mar-2022 08:00:11 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Mar-2022 08:06:33 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Mar-2022 08:06:33 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Mar-2022 09:24:47 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Mar-2022 09:24:47 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Mar-2022 20:31:48 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Mar-2022 20:31:48 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Mar-2022 20:32:40 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Mar-2022 20:32:40 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Mar-2022 20:34:13 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Mar-2022 20:34:13 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Mar-2022 20:35:19 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[09-Mar-2022 20:35:19 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Mar-2022 06:09:32 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Mar-2022 06:09:32 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Mar-2022 07:07:50 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Mar-2022 07:07:50 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Mar-2022 08:23:09 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Mar-2022 08:23:09 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Mar-2022 08:36:01 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Mar-2022 08:36:01 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Mar-2022 08:36:45 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Mar-2022 10:13:52 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Mar-2022 10:13:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Mar-2022 10:16:34 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Mar-2022 10:16:34 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Mar-2022 10:17:05 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Mar-2022 10:17:05 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Mar-2022 10:17:30 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Mar-2022 10:17:30 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Mar-2022 10:18:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/exclusi2/test.exclusivedevs.com/cnews-admin/admin-ajax.php on line 168
+[10-Mar-2022 10:19:26 UTC] PHP Notice:  Undefined index: users in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/form1.php on line 20
+[10-Mar-2022 19:01:33 UTC] PHP Notice:  Undefined index: name in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/form1.php on line 19
+[10-Mar-2022 19:01:33 UTC] PHP Notice:  Undefined index: users in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/form1.php on line 20
+[10-Mar-2022 19:13:10 UTC] PHP Notice:  Undefined index: users in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/form1.php on line 38
+[10-Mar-2022 19:15:54 UTC] PHP Notice:  Undefined index: users in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/form1.php on line 38
+[10-Mar-2022 19:16:24 UTC] PHP Notice:  Undefined index: users in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/form1.php on line 38
+[10-Mar-2022 19:21:50 UTC] PHP Notice:  Undefined index: users in /home1/exclusi2/test.exclusivedevs.com/sub-project/view/form1.php on line 38
+[10-Mar-2022 19:31:24 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Mar-2022 19:31:24 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Mar-2022 19:32:28 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Mar-2022 19:32:28 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Mar-2022 20:07:51 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[10-Mar-2022 20:07:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[11-Mar-2022 04:51:41 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[11-Mar-2022 04:51:41 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[11-Mar-2022 17:17:00 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[11-Mar-2022 17:17:00 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[11-Mar-2022 17:19:43 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[11-Mar-2022 17:19:43 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[11-Mar-2022 17:21:20 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[11-Mar-2022 17:21:20 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[11-Mar-2022 17:25:56 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[11-Mar-2022 17:25:56 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[11-Mar-2022 17:45:10 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[11-Mar-2022 17:45:10 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[12-Mar-2022 06:23:35 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[12-Mar-2022 06:23:35 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[27-Mar-2022 13:40:28 UTC] PHP Warning:  include_once(/home1/exclusi2/test.exclusivedevs.com/user.php): failed to open stream: No such file or directory in /home1/exclusi2/test.exclusivedevs.com/router.php on line 57
+[27-Mar-2022 13:40:28 UTC] PHP Warning:  include_once(): Failed opening '/home1/exclusi2/test.exclusivedevs.com/user.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home1/exclusi2/test.exclusivedevs.com/router.php on line 57
+[08-Apr-2022 07:55:40 UTC] PHP Notice:  Undefined variable: con in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 41
+[08-Apr-2022 07:55:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 41
+[08-Apr-2022 07:55:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 45
+[08-Apr-2022 08:02:42 UTC] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 41
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[08-Apr-2022 08:04:53 UTC] PHP Notice:  Undefined index: Topic in /home1/exclusi2/test.exclusivedevs.com/rssfeed.php on line 49
+[14-Apr-2022 18:39:33 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[14-Apr-2022 18:39:33 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[17-Apr-2022 22:55:34 UTC] PHP Warning:  Illegal string offset 'ID' in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302
+[17-Apr-2022 22:55:34 UTC] PHP Notice:  Uninitialized string offset: 0 in /home1/exclusi2/test.exclusivedevs.com/sub-project/modal/class-category.php on line 302

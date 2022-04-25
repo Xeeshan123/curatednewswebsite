@@ -71,9 +71,6 @@ get('/analytics', 'curatedanalytics/index.php');
 get('/curated-news', 'curatednews.php');
 
 
-get('/rssfeed', 'rssfeed.php');
-
-
 get('/curated-regions', 'curatedregions.php');
 
 

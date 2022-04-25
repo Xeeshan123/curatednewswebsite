@@ -1,3 +1,4 @@
+
 <?php
 
 cnews_header();
